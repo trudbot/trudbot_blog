@@ -210,7 +210,7 @@ void dfs(int u, int fa) {
 >
 > 该树结构如下：
 >
->  ![](https://cdn.luogu.com.cn/upload/pic/2282.png) 
+>  ![](https://trudbot-md-img.oss-cn-shanghai.aliyuncs.com/2282.png) 
 >
 > 第一次询问：$2, 4$ 的最近公共祖先，故为 $4$。
 >
@@ -275,7 +275,7 @@ int main () {
 }
 ```
 
-![image-20230411213302406](https://raw.githubusercontent.com/trudbot/trudbot_images/main/md_img/image-20230411213302406.png)
+![image-20230411213302406](https://trudbot-md-img.oss-cn-shanghai.aliyuncs.com/image-20230411213302406.png)
 
 ## 参考
 

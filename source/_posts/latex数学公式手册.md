@@ -11,7 +11,7 @@ date: 2023-02-26 20:58:29
 ---
 由于markdown语法的局限性， 在写markdown文本时经常需要用到扩展的语法来满足更多的需求。而内嵌式latex是最广泛的markdown编写数学公式的解决方案。
 
-![image-20230303215814126](https://raw.githubusercontent.com/trudbot/trudbot_images/main/md_img/image-20230303215814126.png)
+![image-20230303215814126](https://trudbot-md-img.oss-cn-shanghai.aliyuncs.com/image-20230303215814126.png)
 
 本文将以表格的形式分类介绍$L^AT_EX$的各种公式及语法， 其中只包含我用过的或觉得很重要的， 内容会随时间不断更新。
 
@@ -25,7 +25,6 @@ date: 2023-02-26 20:58:29
 | :-:| :-: | :-: | :-: |
 | 1 | $\%$ | `\%` | %在latex中用于注释 |
 | 2 | $\{$ | `\{` | `{`和`}`在latex中是作用域的界定符号 |
-| 3 | $\}$ | `\}` | `{`和`}`在latex中是作用域的界定符号 |
 | 4 | $\backslash$ |`\backlash`|`\`是latex中用于转义的符号|
 
 ## 希腊字母
@@ -83,7 +82,7 @@ date: 2023-02-26 20:58:29
 |  $x \notin A$  | 不属于 |  `x \notin A`  |
 | $A \subset B$  | 包含于 | `A \subset B`  |
 |   $\forall$    |  任意  |   `\forall`    |
-|    $\exist$    |  存在  |    `\exist`    |
+|   $\exists$    |  存在  |   `\exists`    |
 
 ## 上下标
 
