@@ -106,9 +106,6 @@ deploy:
     repository: git@github.com:trudbot/trudbot.github.io.git
     branch: main
   - type: git
-    repository: git@20.205.45.167:/var/repo/blog.git
-    branch: master
-  - type: git
     repository: root@124.71.163.112:/var/repo/blog.git
     branch: master
 
