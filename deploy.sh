@@ -24,6 +24,6 @@ hexo d
 echo 'hexo deploy run is ok !'
 
 git add *
-time=$(date "+%Y-%m-%d")
+time=$(date "+%Y-%m-%d %H:%M")
 git commit -m "${time}"
 git push origin master

@@ -11,6 +11,8 @@ date: 2023-09-18 22:24:55
 ---
 commit message的规范格式很有必要， 让别人和未来的自己都能更快速的浏览commits。在此记录相关规则供自查。
 
+<!--more-->
+
 ## 规范
 ```
 <type>(<scope>): <subject>
