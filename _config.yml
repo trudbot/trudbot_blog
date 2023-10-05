@@ -102,9 +102,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git
-    repository: git@github.com:trudbot/trudbot.github.io.git
-    branch: main
+# 目前不推送github page， 用它干点别的
+#  - type: git
+#    repository: git@github.com:trudbot/trudbot.github.io.git
+#    branch: main
   - type: git
     repository: root@124.71.163.112:/var/repo/blog.git
     branch: master
